@@ -1,5 +1,5 @@
 Glassdor scrapper using flask
-check collection folder for postman file
+Check collection folder for postman collection file
 
 How to setup :
 1. Install python 3
